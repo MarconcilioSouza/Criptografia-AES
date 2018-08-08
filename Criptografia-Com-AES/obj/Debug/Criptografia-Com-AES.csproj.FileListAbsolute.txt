@@ -1,0 +1,7 @@
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\bin\Debug\Criptografia-Com-AES.exe.config
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\bin\Debug\Criptografia-Com-AES.exe
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\bin\Debug\Criptografia-Com-AES.pdb
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\obj\Debug\Criptografia-Com-AES.csprojAssemblyReference.cache
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\obj\Debug\Criptografia-Com-AES.csproj.CoreCompileInputs.cache
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\obj\Debug\Criptografia-Com-AES.exe
+A:\Fontes\Criptografia-Com-AES\Criptografia-Com-AES\obj\Debug\Criptografia-Com-AES.pdb
